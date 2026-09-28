@@ -18,7 +18,6 @@ Minimal UI, ambient background, customizable durations, task tracking, and sessi
 
 Just open `index.html` in your browser. No build step, no dependencies.
 
-```bash
 
 
 ## Project Structure
