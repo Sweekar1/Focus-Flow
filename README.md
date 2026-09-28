@@ -33,6 +33,4 @@ focusflow/
 └── README.md
 ```
 
-## License
-
-MIT — free to use and modify.
+free to use and modify as per ur wish :)
